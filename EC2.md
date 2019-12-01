@@ -7,6 +7,7 @@ Amazon Elastic Compute Cloud
 ## ストレージ
 - [Amazon EBS – 最適化インスタンス - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/ja_jp/AWSEC2/latest/UserGuide/EBSOptimized.html)
 - [Amazon EBS ボリュームの初期化 - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/ja_jp/AWSEC2/latest/WindowsGuide/ebs-initialize.html)
+- [新機能 – Amazon EBS Fast Snapshot Restore (FSR) | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/new-amazon-ebs-fast-snapshot-restore-fsr/)
 
 ## Windows
 ### Sysprep
