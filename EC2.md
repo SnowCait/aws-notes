@@ -3,6 +3,7 @@ Amazon Elastic Compute Cloud
 
 ## インスタンス
 - [インスタンスタイプ - Amazon EC2 | AWS](https://aws.amazon.com/jp/ec2/instance-types/)
+  - [EC2インスタンスタイプの意味と特徴の覚え方](https://zenn.dev/matsu7089/articles/meaning-of-ec2-instance-types)
 - [AWSでゲームサーバーを最大90%安く利用する方法](https://www.slideshare.net/AmazonWebServicesJapan/aws90)
 
 ## ストレージ
