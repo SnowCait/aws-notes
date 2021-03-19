@@ -11,6 +11,9 @@ Amazon Elastic Compute Cloud
 - [Amazon EBS ボリュームの初期化 - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/ja_jp/AWSEC2/latest/WindowsGuide/ebs-initialize.html)
 - [新機能 – Amazon EBS Fast Snapshot Restore (FSR) | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/new-amazon-ebs-fast-snapshot-restore-fsr/)
 
+## Auto Scaling
+- [Auto Scaling グループのインスタンスを再起動する](https://aws.amazon.com/jp/premiumsupport/knowledge-center/reboot-autoscaling-group-instance/)
+
 ## Windows
 ### Sysprep
 - [Sysprep を使って標準の Amazon マシンイメージを作成します。 - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/ja_jp/AWSEC2/latest/WindowsGuide/ami-create-standard.html)
