@@ -9,6 +9,10 @@
   - [Amazon Linux 2のコンテナイメージをDocke上で動かす - Qiita](https://qiita.com/revsystem/items/32715cbdb0b3f1bb53b5)
   - [useraddコマンドをAmazon Linux2へインストールする - モヒカンメモ](https://blog.pinkumohikan.com/entry/install-useradd-command-to-amazon-linux2)
 
+## 日本語
+
+- [AmazonLinux2のDockerイメージに日本語ローケルを設定してみました。 - Qiita](https://qiita.com/yuyj109/items/a56e562599972eb37abd)
+
 ## Java
 
 - [CentOS7にJava OpenJDK8のインストール - Qiita](https://qiita.com/Esfahan/items/60cf425514c66553bd42) (`JAVA_HOME`)
