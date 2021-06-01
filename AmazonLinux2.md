@@ -12,6 +12,7 @@
 ## 日本語
 
 - [AmazonLinux2のDockerイメージに日本語ローケルを設定してみました。 - Qiita](https://qiita.com/yuyj109/items/a56e562599972eb37abd)
+- [Dockerコンテナのタイムゾーン変更方法 - Qiita](https://qiita.com/rururu_kenken/items/972314402d588e073d40)
 
 ## Java
 
