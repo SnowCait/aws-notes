@@ -9,6 +9,7 @@
 
 ### Language
 - [大量リクエストを低コストでさばく AWS Lambda 関数を JVM で実現 - 変化を求めるデベロッパーを応援するウェブマガジン | AWS](https://aws.amazon.com/jp/builders-flash/202110/jvm-lambda-function/?awsf.filter-name=*all)
+- [AWS Lambdaの実行速度をX-Rayで計測する | DevelopersIO](https://dev.classmethod.jp/articles/lambda-measure/)
 
 ## C#
 - [csharp-notes/AwsLambda.md at master · SnowCait/csharp-notes](https://github.com/SnowCait/csharp-notes/blob/master/AwsLambda.md)
