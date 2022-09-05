@@ -11,6 +11,9 @@
 - [大量リクエストを低コストでさばく AWS Lambda 関数を JVM で実現 - 変化を求めるデベロッパーを応援するウェブマガジン | AWS](https://aws.amazon.com/jp/builders-flash/202110/jvm-lambda-function/?awsf.filter-name=*all)
 - [AWS Lambdaの実行速度をX-Rayで計測する | DevelopersIO](https://dev.classmethod.jp/articles/lambda-measure/)
 
+## Function URLs
+- [AWS Lambda Function URLs の提供開始: 単一機能のマイクロサービス向けの組み込み HTTPS エンドポイント | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
+
 ## C#
 - [csharp-notes/AwsLambda.md at master · SnowCait/csharp-notes](https://github.com/SnowCait/csharp-notes/blob/master/AwsLambda.md)
 - [AWS Lambda で C# が使えるようになったので早速試してみた - Qiita](https://qiita.com/Hanocha/items/7a3b6861f957f1a35a68)
